@@ -10,7 +10,7 @@ let accountState ;
 // accountId = 2   // not allowed
 accountEmail = "adoo@gmail.com"
 accountCity = "London"
-accountPassword = "adii12344"
+accountPassword = "adii12345554"
 
 console.log(accountId);
 
